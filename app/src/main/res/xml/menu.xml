@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <MainMenu id="0" name="温州大学" type="0" url="http://www.wzu.edu.cn/wap/">
+    </MainMenu>
+    <MainMenu id="1" name="步青学区" type="1" url="http://bqxq.wzu.edu.cn/">
+            <menuItem>
+                <id>bqxq_dyfz</id>
+                <name>党员发展</name>
+                <url>http://bqxq.wzu.edu.cn/Col/Col12/Index.aspx</url>
+                <sort>1</sort>
+            </menuItem>
+            <menuItem>
+                <id>bqxq_zbjs</id>
+                <name>支部建设</name>
+                <url>http://bqxq.wzu.edu.cn/Col/Col13/Index.aspx</url>
+                <sort>2</sort>
+            </menuItem>
+            <menuItem>
+                <id>bqxq_ygfw</id>
+                <name>义工服务</name>
+                <url>http://bqxq.wzu.edu.cn/Col/Col14/Index.aspx</url>
+                <sort>3</sort>
+            </menuItem>
+            <menuItem>
+                <id>bqxq_dxyd</id>
+                <name>党校园地</name>
+                <url>http://bqxq.wzu.edu.cn/Col/Col15/Index.aspx</url>
+                <sort>4</sort>
+            </menuItem>
+            <menuItem>
+                <id>bqxq_gyxl</id>
+                <name>公寓巡礼</name>
+                <url>http://bqxq.wzu.edu.cn/Col/Col7/Index.aspx</url>
+                <sort>5</sort>
+            </menuItem>
+
+    </MainMenu>
+    <MainMenu id="2" name="物电学院" type="1" url="http://wdxy.wzu.edu.cn/">
+            <menuItem>
+                <id>wdxy_xstg</id>
+                <name>学生通告</name>
+                <url>http://wdxy.wzu.edu.cn/Col/Col15/Index.aspx</url>
+                <sort>1</sort>
+            </menuItem>
+            <menuItem>
+                <id>wdxy_jstg</id>
+                <name>教师通告</name>
+                <url>http://wdxy.wzu.edu.cn/Col/Col13/Index.aspx</url>
+                <sort>2</sort>
+            </menuItem>
+            <menuItem>
+                <id>wdxy_xwdt</id>
+                <name>新闻动态</name>
+                <url>http://wdxy.wzu.edu.cn/Col/Col14/Index.aspx</url>
+                <sort>3</sort>
+            </menuItem>
+            <menuItem>
+                <id>wdxy_jzyg</id>
+                <name>讲座预告</name>
+                <url>http://wdxy.wzu.edu.cn/Col/Col16/Index.aspx</url>
+                <sort>4</sort>
+            </menuItem>
+            <menuItem>
+                <id>bqxq_jkydt</id>
+                <name>教科研动态</name>
+                <url>http://wdxy.wzu.edu.cn/Col/Col108/Index.aspx</url>
+                <sort>5</sort>
+            </menuItem>
+    </MainMenu>
+</resources>
